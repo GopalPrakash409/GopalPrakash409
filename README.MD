@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-## Hello, I'm [Shahaban Mallick](https://shahban.me)👋
+## Hello, I'm [Gopal Prakash]👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
 **TECHNOLOGIES I WORK WITH**
@@ -27,12 +27,12 @@
 ---
 
 ### 🧾 Recent Contributions:
-[![Shahaban's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaban1911&theme=react-dark)](https://github.com/Shaban1911/)
+[![Gopal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaban1911&theme=react-dark)](https://github.com/Shaban1911/)
 
 ### 📊 Some Fun Stats:
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=Shaban1911&theme=midnight-purple) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaban1911&theme=midnight-purple) |
 | --- | --- |
-| ![Shahaban's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaban1911&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/Shaban1911/count.svg) |
+| ![Gopal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaban1911&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/Shaban1911/count.svg) |
 
 
 ### 🏆 My trophies
@@ -44,8 +44,8 @@
 
 ### 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahaban-mallick/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallickshaban2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaban1911)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/983228108448624700)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shaban_1911/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mallick/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/911)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
